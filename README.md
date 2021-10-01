@@ -1,5 +1,5 @@
-www.scidian.com <BR>
-www.stevinz.com
+Web: www.scidian.com <BR>
+IG: www.stevinz.com
 
 <!--
 **stevinz/stevinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
