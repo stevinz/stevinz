@@ -1,4 +1,4 @@
-## Some thigs I do:
+## Some things I do:
 - 🌎: www.scidian.com
 - 🧗‍♂️: www.stevinz.com
           
